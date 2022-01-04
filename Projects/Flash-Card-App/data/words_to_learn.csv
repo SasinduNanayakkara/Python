@@ -17,7 +17,6 @@ Unnamed: 0,Sinhala,English
 16,මෙම,this
 17,සිට,from
 19,උණුසුම්,hot
-20,වචනය,word
 21,නමුත්,but
 22,කුමක් ද,what
 23,සමහර,some
@@ -57,7 +56,6 @@ Unnamed: 0,Sinhala,English
 65,වරාය,port
 66,විශාල,large
 67,අක්ෂර වින්යාස,spell
-68,එකතු,add
 69,පවා,even
 70,ඉඩම්,land
 71,මෙතැන,here
@@ -66,9 +64,7 @@ Unnamed: 0,Sinhala,English
 74,ඉහළ,high
 75,එවැනි,such
 76,අනුගමනය,follow
-77,පනත,act
 78,ඇයි,why
-79,අහන්න,ask
 80,මිනිසුන්,men
 81,වෙනස්,change
 82,ගිය,went
@@ -76,7 +72,6 @@ Unnamed: 0,Sinhala,English
 85,කපා,off
 86,අවශ්යතාව,need
 87,නිවසක්,house
-89,උත්සාහ,try
 90,අපට,us
 91,නැවත,again
 93,පේදුරු,point
@@ -96,9 +91,6 @@ Unnamed: 0,Sinhala,English
 108,සිදු,made
 109,සජීවී,live
 110,එහිදී,where
-111,පසු,after
-112,ආපසු,back
-113,කුඩා,little
 114,පමණක්,only
 115,වටයේ,round
 116,මිනිසා,man
@@ -136,7 +128,6 @@ Unnamed: 0,Sinhala,English
 149,එම,same
 150,ඇය,she
 151,සියලු,all
-152,එතන,there
 153,කවදා ද,when
 154,දක්වා,up
 155,භාවිතය,use
@@ -172,10 +163,8 @@ Unnamed: 0,Sinhala,English
 188,කට,over
 189,දැන,know
 190,ජල,water
-191,වඩා,than
 192,ඇමතුම්,call
 193,පළමු,first
-194,කරන,who
 195,හැකිය,may
 196,වසා,down
 197,පැත්ත,side
@@ -190,7 +179,6 @@ Unnamed: 0,Sinhala,English
 206,රට,country
 207,සොයා,found
 208,පිළිතුර,answer
-209,පාසල්,school
 210,වර්ධනය,grow
 211,අධ්යයනය,study
 213,ඉගෙන,learn
@@ -213,7 +201,6 @@ Unnamed: 0,Sinhala,English
 231,වෙහෙස මහන්සි වී,hard
 232,ආරම්භයක්,start
 233,සමහරවිට,might
-234,කතාව,story
 235,කියත්,saw
 236,දුර,far
 237,මුහුදු,sea
@@ -234,7 +221,6 @@ Unnamed: 0,Sinhala,English
 255,කන්න,eat
 256,කාමරය,room
 259,අදහස,idea
-260,මාළු,fish
 261,කඳු,mountain
 262,නවත්වන්න,stop
 263,වරක්,once
@@ -250,10 +236,8 @@ Unnamed: 0,Sinhala,English
 274,විවෘත,open
 275,පෙනේ,seem
 277,ඊළඟ,next
-278,සුදු,white
 279,දරුවන්,children
 280,ආරම්භය,begin
-281,වී,got
 282,ඇවිදින්න,walk
 283,උදාහරණයක්,example
 284,පහසුවෙන්,ease
@@ -270,20 +254,17 @@ Unnamed: 0,Sinhala,English
 296,ගඟ,river
 297,මෝටර් රථ,car
 298,අඩි,feet
-299,සත්කාර,care
 301,ඇති,enough
 302,තැනිතලා,plain
 303,දැරිය,girl
 304,සුපුරුදු,usual
 305,තරුණ,young
 306,සූදානම්,ready
-307,ඉහත,above
 308,මෙතෙක්,ever
 309,රතු,red
 310,ලැයිස්තුව,list
 311,නමුත්,though
 312,හිතෙනවා,feel
-313,සාකච්ඡාව,talk
 314,පක්ෂි,bird
 315,ඉක්මනින්,soon
 316,ශරීරය,body
@@ -300,7 +281,6 @@ Unnamed: 0,Sinhala,English
 329,පන්ති,class
 331,ප්රශ්නය,question
 332,සිදු,happen
-333,සම්පූර්ණ,complete
 334,නෞකාව,ship
 335,ප්රදේශයේ,area
 336,අර්ධ,half
@@ -322,7 +302,6 @@ Unnamed: 0,Sinhala,English
 352,ගුණ,multiply
 353,කිසිවක්,nothing
 354,පාඨමාලාව,course
-355,ඉන්න,stay
 356,රෝද,wheel
 357,පූර්ණ,full
 358,බලය,force
@@ -332,7 +311,6 @@ Unnamed: 0,Sinhala,English
 364,සඳ,moon
 366,අඩි,foot
 367,පද්ධතිය,system
-368,කාර්යබහුල,busy
 369,ටෙස්ට්,test
 370,වාර්තා,record
 371,බෝට්ටු,boat
@@ -347,7 +325,6 @@ Unnamed: 0,Sinhala,English
 380,දහසක්,thousand
 381,පෙර,ago
 383,චෙක්පත,check
-384,ක්රීඩාව,game
 385,හැඩය,shape
 386,සමාන,equate
 387,උණුසුම්,hot
@@ -371,7 +348,6 @@ Unnamed: 0,Sinhala,English
 407,වැටීම,fall
 408,පෙරමුණ,lead
 409,ගැස්මට,cry
-410,අඳුරු,dark
 412,සටහන,note
 413,ඉන්න,wait
 414,සැලැස්ම,plan
@@ -389,7 +365,6 @@ Unnamed: 0,Sinhala,English
 427,සිටගෙන,stood
 428,අඩංගු,contain
 429,ඉදිරිපස,front
-430,ඉගැන්වීමට,teach
 431,සතියේ,week
 432,අවසන්,final
 434,හරිත,green
@@ -413,15 +388,12 @@ Unnamed: 0,Sinhala,English
 454,වඩා හොඳ,better
 455,සැබෑ,TRUE
 456,තුළ,during
-457,සියයක්,hundred
 458,පස්,five
 459,මතක තබා,remember
-460,පියවර,step
 461,මුල්,early
 462,පැවැත්වීමට,hold
 463,බටහිර,west
 464,බිම,ground
-465,පොලී,interest
 466,ළඟා,reach
 468,ක්රියා පදයෙන්,verb
 469,ගී ගයන්න,sing
@@ -434,7 +406,6 @@ Unnamed: 0,Sinhala,English
 476,දස,ten
 477,සරල,simple
 478,කිහිපයක්,several
-479,ස්වර,vowel
 480,දෙසට,toward
 481,යුද්ධය,war
 482,ගිහි,lay
@@ -443,7 +414,6 @@ Unnamed: 0,Sinhala,English
 485,මන්දගාමී,slow
 486,මධ්යස්ථානයක්,center
 487,ආදරය,love
-488,පුද්ගලයා,person
 489,මුදල්,money
 490,සේවය,serve
 491,පෙනී,appear
