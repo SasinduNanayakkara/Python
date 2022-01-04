@@ -39,5 +39,5 @@ if will_rain: # if rain
         to="receiver's number",
     )
 
-    print(message.status)
+    print(message.status) # print the message status
 
